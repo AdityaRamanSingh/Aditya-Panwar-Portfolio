@@ -9,7 +9,6 @@ import {FiExternalLink} from 'react-icons/fi'
 import Link from "next/link";
 
 
-
 type ProjectProps = (typeof projectsData)[number];
 
 export default function Project({
